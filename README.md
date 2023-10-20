@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Vishnu Narayanan👋
 
-<!--
-**vishnu777aero/vishnu777aero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 3 years of industry experience, specializing in:
 
-Here are some ideas to get you started:
+- React
+- JavaScript
+- Java
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect on [LinkedIn](https://www.linkedin.com/in/vishnu-narayanan-05b167193/)
+
+Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or interesting collaboration ideas.
+
+🔧 Skills:
+- React
+- JavaScript
+- Java
+- C++
+- HTML/CSS
+
+💼 Experience:
+- [LiteBreeze Infotech](https://litebreeze.com/) - Senior Software Developer (2022 ~ 6 months)
+- [Teronext Consulting](https://www.linkedin.com/company/teronext-consulting/about/) - Front End Web Developer (2020-2022)
+
+🌱 I'm currently doing my PG program Software Application Specialist(2023-2025) at Vanier College, Montreal.
+
+📫 You can reach me at vishnu777aero@gmail.com.
