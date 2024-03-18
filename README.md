@@ -1,11 +1,6 @@
 # Hello, I'm Vishnu Narayanan👋
 
-I'm a software developer with 3 years of industry experience, specializing in:
-
-- React
-- JavaScript
-- Java
-- C++
+I'm a software developer with 3 years of industry experience.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/vishnu-narayanan-05b167193/)
 
@@ -17,6 +12,7 @@ Feel free to explore my GitHub repositories and don't hesitate to reach out if y
 - Java
 - C++
 - HTML/CSS
+- SQL and MySQL
 
 💼 Experience:
 - [LiteBreeze Infotech](https://litebreeze.com/) - Senior Software Developer (2022 ~ 6 months)
