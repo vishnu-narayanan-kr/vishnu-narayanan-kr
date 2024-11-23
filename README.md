@@ -7,11 +7,13 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/vishnu-narayanan-05b1671
 Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or interesting collaboration ideas.
 
 🔧 Skills:
-- React
-- JavaScript
-- Java
-- C++
 - HTML/CSS
+- JavaScript
+- React JS
+- Java
+- Spring Boot
+- C#
+- ASP .NET Core
 - SQL and MySQL
 
 💼 Experience:
